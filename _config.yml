@@ -17,7 +17,7 @@ title: CS 151
 tagline: Hampton CS 151 Fall 2022
 description: Computer Programming I
 author: Lara McConnaughey
-baseurl: '' # the subpath of your site, e.g. /blog
+baseurl: '/' # the subpath of your site, e.g. /blog
 url: 'https://cs151.org' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
