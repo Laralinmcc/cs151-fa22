@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Just the Class
+title: Home
 nav_exclude: true
 permalink: index.html
 seo:
