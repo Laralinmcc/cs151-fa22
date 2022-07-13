@@ -29,7 +29,7 @@ By the end of the course, students will learn
  - Objects and Classes
  - Sets and Dictionaries
 
-## Course Meetings
+<!-- ## Course Meetings
 Lectures, labs, and office hours are the main ways in which you will interact with your professor and TAs. You can see the weekly schedule of course meetings on the [course schedule page](schedule.md).
 
 ### Lecture
@@ -101,4 +101,4 @@ Your official class midterm and final grades will be published in Blackboard. Yo
 
 ### Material Attribution
 We'd like to thank UC Berkeley's [CS10: The Beauty and Joy of Computing](https://cs10.org/fa19/) and [CS61A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/fa15/), from which this course borrows high-level topics and organization. Course material will be created by Prof. Alex Krentsel, borrowing from past iterations of this course at Howard taught by GIR instructors.
-
+ -->
