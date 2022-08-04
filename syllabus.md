@@ -66,20 +66,20 @@ The class will *not* be curved. Instead, your final grade will be based on bucke
 
 Your overall grade will be calculated using the following relative weights:
 
-| Assignment Type | # of Assignments | Number Dropped | Points |<!--  Weight in Overall Grade | -->
-|:-------------|:------------------|:------|<!-- :------| -->
-| Concept Checks | 24 | 4 | 40 | <!-- 8% | -->
-| Lecture Self-Checks | 24 | 4 | 10 | <!-- 2% | -->
-| Labs | 12 | 2 | 60 | <!-- 12% | -->
-| Quest | 1 | 0  | 20 | <!-- 4% | -->
-| Midterm | 1 | 0  | 50 | <!-- 10% | -->
-| Final Exam | 1 | 0  | 80 | <!-- 16% | -->
-| Homework 0 | 1 | 0  | 5 | <!-- 1% | -->
-| Homework 1 | 1 | 0  | 20 | <!-- 4% |
- -->| Homework 2 | 1 | 0  | 20 | <!-- 4% | -->
-| Explore Post | 1 | 0  | 20 | <!-- 4% | -->
-| Midterm Project | 1 | 0  | 75 | <!-- 15% | -->
-| Final Project | 1 | 0 | 100 | <!-- 20% | -->
+| Assignment Type | # of Assignments | Number Dropped | Points | 
+|:-------------|:------------------|:------|
+| Concept Checks | 24 | 4 | 40 |
+| Lecture Self-Checks | 24 | 4 | 10 |
+| Labs | 12 | 2 | 60 | 
+| Quest | 1 | 0  | 20 | 
+| Midterm | 1 | 0  | 50 | 
+| Final Exam | 1 | 0  | 80 |
+| Homework 0 | 1 | 0  | 5 | 
+| Homework 1 | 1 | 0  | 20 | 
+| Homework 2 | 1 | 0  | 20 | 
+| Explore Post | 1 | 0  | 20 | 
+| Midterm Project | 1 | 0  | 75 | 
+| Final Project | 1 | 0 | 100 | 
 
 ### Assignments
 These details are subject to change during the semester, however the current plan of record is the following:
