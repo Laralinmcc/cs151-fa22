@@ -6,7 +6,7 @@ description: A listing of all the course staff members.
 
 # Staff
 
-For a quicker response on homework or project help, please ask on Piazza rather than emailing staff members individually. On Piazza, all staff members can see your question and answer it.
+For a quicker response on homework or project help, please ask on EdStem rather than emailing staff members individually. On EdStem, all staff members can see your question and answer it.
 
 ## Instructors
 

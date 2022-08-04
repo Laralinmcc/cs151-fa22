@@ -28,6 +28,8 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
+  Ed Stem:
+    - 'https://edstem.org/us/courses/24341/discussion/'
   PythonTutor:
     - 'https://pythontutor.com/composingprograms.html#mode=edit'
   Blackboard:
