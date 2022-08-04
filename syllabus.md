@@ -51,13 +51,13 @@ As a course, we commit to making sure no student fails the class due to lack of 
 
 - **Lab Sections**: Labs are the primary place you will learn to program. To earn full credit for a lab, it must be completed, submitted, and checked off. Checkoff can be done either in lab or in office hours. If you have a special circumstance where you are unable to check-off a lab, please email laralinmcc@gmail.com. Each lab will be due one week after the lab is assigned. For example, a lab assigned on a Tuesday will be due the following Tuesday. There will be at least 12 total labs — but only your top 10 lab scores will count towards your grade. Each lab is worth 4 points. Half a point will be deducted for each day that a lab is checked off late; however, a maximum of 2 points will be deducted for any given lab. 
 
-You should take advantage of labs as you can ask the professor or TAs for help on completing the assignments.
-
+<!-- You should take advantage of labs as you can ask the professor or TAs for help on completing the assignments.
+ -->
 - **Office Hours**: During office hours, you can meet with a TA or Lara for help with course material, assignments, or bigger picture questions.e will hold a mixture of in-person and virtual office hours at a wide variety of times. Virtual office hours will be held on Zoom, the link can be found at the course schedule page. In-person office hours will be held in Lara's office. You are welcome to come for any reason, including course material questions, lecture clarifications, industry interview prep, career path discussions, or just to hang out.
 
-As a course, we commit to making sure no student fails the class due to lack of class resources, so if you are behind or confused, please reach out for help. The course staff will make themselves as available as possible to help you.
+<!-- As a course, we commit to making sure no student fails the class due to lack of class resources, so if you are behind or confused, please reach out for help. The course staff will make themselves as available as possible to help you.
 
-- **Participation and Attendance**: You can receive points for this category by attending discussion, lab, and doing post-lecture questions. Note that there will be more than 30 points available (so you can still get full points in this category if you miss section or don’t do post-lecture questions one week) and that once you reach 30, your grade will cap out there (no extra credit if you get above 30; just full points(: ).
+- **Participation and Attendance**: You can receive points for this category by attending discussion, lab, and doing post-lecture questions. Note that there will be more than 30 points available (so you can still get full points in this category if you miss section or don’t do post-lecture questions one week) and that once you reach 30, your grade will cap out there (no extra credit if you get above 30; just full points(: ). -->
 
 - **Project and Homework Description**: These assignments will be one of the best ways for you to apply what you have learned in lecture, lab and discussion. These will be a bit more time intensive than the other assignments and will require you to be caught up on the other components of the class. Homeworks will tend to be a bit less difficult and time intensive, while projects will take a bit longer and require more work on your part. Note that you may use 6 slip days (explained in more detail below) total this semester on assignments in this category.
 
