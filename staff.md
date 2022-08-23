@@ -15,6 +15,24 @@ For a quicker response on homework or project help, please ask on EdStem rather 
 {{ staffer }}
 {% endfor %}
 
+
+{% assign teaching_assistants = site.staffers | where: 'role', 'Google Teaching Assistant' %}
+{% assign num_teaching_assistants = teaching_assistants | size %}
+{% if num_teaching_assistants != 0 %}
+## Google Teaching Assistant
+
+{% for staffer in teaching_assistants %}
+{{ staffer }}
+{% endfor %}
+{% endif %}
+
+<!-- ## Google TAs
+
+{% assign google_teaching_assistants = site.staffers | where: 'role', 'GoogleTA' %}
+{% for staffer in google_teaching_assistants %}
+{{ staffer }}
+{% endfor %} -->
+
 <!-- {% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
 {% assign num_teaching_assistants = teaching_assistants | size %}
 {% if num_teaching_assistants != 0 %} -->
