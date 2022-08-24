@@ -1,16 +1,17 @@
 ---
-title: Week 1 - Introduction to Java
+title: Week 1 - Introduction to Computer Science & Karel
 ---
 
-Sep 6
-: [Java & Git](#)
-  : [1.1](#)
+9/6 Tuesday
+: **Lecture**{: .label .label-green } Intro to CS & Syllabus Review
+  : [Slides](#)
+: **Lab**{: .label .label-purple } [Intro to Karel](https://edstem.org/us/courses/24341/lessons/42800)
+  : [Check-Off Questions](#)
 
-: [Variables & Objects](#)
-  : [1.2](#), [2.1](#)
+9/9 Thursday
+: **Concept Video**{: .label .label-blue } [Intro to Java](#)
+: **Lecture**{: .label .label-green } Meet Karel
+  : [Slides](#)
 
-
-: **Lab**{: .label .label-purple } [Intro to Java](#)
-
-Sep 9
-: **HW 1 due**{: .label .label-red }
+9/10 Friday
+: **HW 0 due**{: .label .label-red } [Getting to know you.](#)
