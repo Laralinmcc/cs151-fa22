@@ -1,6 +1,6 @@
 ---
 name: Colin Floyd
-role: Google Teaching Assistant
+role: Career Coach
 email: google
 website: https://kevinl.info
 photo: lara.jpeg
