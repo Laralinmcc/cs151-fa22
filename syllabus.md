@@ -16,7 +16,7 @@ description: >-
 
 ---
 ## Overview
-Welcome to CS151! We’re really excited to have you on board with us this Fall for a gentle, but thorough introduction to computer science. The course is designed for students with no formal exposure to computer science or programming. The goal is to provide anintroduction to computer science that will prepare students to either take further computer science courses, or use computer science in their field of study.
+Welcome to CS151! We’re really excited to have you on board with us this Fall for a gentle, but thorough introduction to computer science. The course is designed for students with no formal exposure to computer science or programming. The goal is to provide an introduction to computer science that will prepare students to either take further computer science courses, or use computer science in their field of study.
 
 By the end of the course, students will learn
  - Variables, Expressions, Types
@@ -32,31 +32,17 @@ By the end of the course, students will learn
 ## Course Meetings
 Lectures, labs, and office hours are the main ways in which you will interact with your professor and TAs. You can see the weekly schedule of course meetings on the [course schedule page](schedule.md).
 
-<!-- ### Lecture
-Lectures for this course will be 100% virtual. This class will use a flipped classroom model, where lecture videos will be sent out before class that you must watch. You will be expected to have watched the videos before class. Classtime will then be spent on answering student questions on the material, and working through practice problems. You are expected to come to each class, having watched the lecture videos, as there will be weekly quizzes given at a random time during class. 
-
-### Labs
-Lab for this course will be 100% virtual. Labs will allow you to apply the new concepts that you're learning in lecture to broader, graded problems. You will be given problems to solve, that you'll be able to work on with your peers in groups of 4. Your labs will be submitted on Mimir and graded by the Mimir autograder. Labs will be released each Wednesday evening, and will be due the following Tuesday at 11:59pm. 
-
-You should take advantage of labs as you can ask the professor or TAs for help on completing the assignments.  -->
-
-<!-- ### Office Hours
-
-We will hold a mixture of in-person and virtual office hours at a wide variety of times. Virtual office hours will be held on Zoom, the link can be found at the [course schedule page](schedule.md). In-person office hours will be held in Prof. Krentsel's office. You are welcome to come for any reason, including course material questions, lecture clarifications, industry interview prep, career path discussions, or just to hang out. 
-
-As a course, we commit to making sure no student fails the class due to lack of class resources, so if you are behind or confused, please reach out for help. The course staff will make themselves as available as possible to help you. -->
-
 ## Primary Course Components
 
 - **Concept Videos**:  Concept videos will introduce material and give you and overview of what is happening in labs and lecture. Each concept video will be followed with self-check questions that are not graded, but will help you with the concept check quizzes during lecture. Concept videos must be watched before their corresponding lecture section.
 
-- **Lecture Sections**: Discussion sections are where you will delve into the content more deeply with interactive examples, such as “pen-and-paper” worksheets, Computer Science unplugged activities, pair/group programming, and code along problems. This is where you will develop computational skills needed to understand the basics of programming. Attendance is required.
+- **Lecture Sections**: Discussion sections are where you will delve into the content more deeply with interactive examples, such as “pen-and-paper” worksheets, computer science unplugged activities, pair/group programming, and code along problems. This is where you will develop computational skills needed to understand the basics of programming.
 
-- **Lab Sections**: Labs are the primary place you will learn to program. To earn full credit for a lab, it must be completed, submitted, and checked off. Checkoff can be done either in lab or in office hours. LabsIf you have a special circumstance where you are unable to check-off a lab, please email laralinmcc@gmail.com. Labs can be completed individually or in pairs. Each lab will be due one week after the lab is assigned. For example, a lab assigned on a Tuesday will be due the following Tuesday. There will be at least 12 total labs — but only your top 10 lab scores will count towards your grade. Each lab is worth 4 points. Half a point will be deducted for each day that a lab is checked off late; however, a maximum of 2 points will be deducted for any given lab. 
+- **Lab Sections**: Labs are the primary place you will learn to program. To earn full credit for a lab, it must be completed, submitted, and checked off. Checkoff can be done either in lab or in office hours. If you have a special circumstance where you are unable to check-off a lab, please email laralinmcc@gmail.com. Labs can be completed individually or in pairs. Each lab will be due one week after the lab is assigned. For example, a lab assigned on a Tuesday will be due the following Tuesday. There will be at least 12 total labs — but only your top 10 lab scores will count towards your grade. Each lab is worth 4 points. Half a point will be deducted for each day that a lab is checked off late; however, a maximum of 2 points will be deducted for any given lab. 
 
-- **Office Hours**: During office hours, you can meet with a TA or Lara for help with course material, assignments, or bigger picture questions. We will hold a mixture of in-person and virtual office hours at a wide variety of times. Virtual office hours will be held on Google Meet, the link can be found at the course schedule page. In-person office hours will be held in Lara's office. You are welcome to come for any reason, including course material questions, lecture clarifications, industry interview prep, career path discussions, or just to hang out.
+- **Office Hours**: During office hours, you can meet with a TA or Lara for help with course material, assignments, or bigger picture questions. We will hold a mixture of in-person and virtual office hours at a wide variety of times. Virtual office hours will be held on Google Meet, the link can be found at the course schedule page. In-person office hours will be held in Lara's office. You are welcome to come for any reason, including course material questions, lecture clarifications, career path discussions, or just to hang out.
 
-- **Project and Homework Description**: These assignments will be one of the best ways for you to apply what you have learned in lecture, lab and discussion. These will be a bit more time intensive than the other assignments and will require you to be caught up on the other components of the class. Homeworks will tend to be a bit less difficult and time intensive, while projects will take a bit longer and require more work on your part. Note that you may use 6 slip days (explained in more detail below) total this semester on assignments in this category.
+- **Project and Homework Description**: These assignments will be one of the best ways for you to apply what you have learned in lecture, lab and discussion. These will be a bit more time intensive than the other assignments and will require you to be caught up on the other components of the class. Homework will tend to be a bit less difficult and time intensive, while projects will take a bit longer and require more work on your part. Note that you may use 6 slip days (explained in more detail below) total this semester on assignments in this category.
 
 As a course, we commit to making sure no student fails the class due to lack of class resources, so if you are behind or confused, please reach out for help. The course staff will make themselves as available as possible to help you.
 
