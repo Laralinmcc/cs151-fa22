@@ -2,6 +2,7 @@
 name: Gavin Ding 🤯 
 role: Curriculum Developer
 email: gavindym@google.com
+pronouns: he/him
 photo: gavin.jpeg
 ---
 
