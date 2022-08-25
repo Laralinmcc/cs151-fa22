@@ -1,9 +1,8 @@
 ---
-name: Gavin Ding
+name: Gavin Ding 🤯 
 role: Curriculum Developer
-email: chang huang
-website: https://kevinl.info
-photo: lara.jpeg
+email: gavindym@google.com
+photo: gavin.jpeg
 ---
 
-I like teaching Computer Science!
+My name is Yimin and Gavin is my Starbucks name. I went to State University of New York, Binghamton for my master degree. After graduation, I came to LA to join Google. I have been SRE (Site Reliability Engineer) for 5 years.  
