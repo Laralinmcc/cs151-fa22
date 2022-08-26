@@ -1,7 +1,6 @@
 ---
-name: Lara McConnaughey ✍️
+name: Lara ✍️
 role: Instructor
-email: laralinmcc@gmail.com
 website: https://laralinmcc.github.io/
 pronouns: she/her
 photo: lara.jpeg
