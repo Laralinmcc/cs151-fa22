@@ -1,9 +1,9 @@
 ---
 name: Katherine Bruton
 role: Google Teaching Assistant
-email: google
-website: https://kevinl.info
-photo: lara.jpeg
+email: kbruton@google.com
+pronouns: she/her
+photo: katherine.jpeg
 ---
 
-I teach computer science!
+I'm a software engineer on the Google Keep team in NYC. Previously, I worked at Meta in Seattle and graduated from UT Austin with a Computer Science degree in 2018. In my free time, I enjoy board games and teaching my dog fun tricks.
