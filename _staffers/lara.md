@@ -2,6 +2,7 @@
 name: Lara ✍️
 role: Instructor
 website: https://laralinmcc.github.io/
+email: laralinmcc@gmail.com
 pronouns: she/her
 photo: lara.jpeg
 ---
