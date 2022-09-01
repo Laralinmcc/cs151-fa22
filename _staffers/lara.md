@@ -1,5 +1,5 @@
 ---
-name: Lara ✍️
+name: Lara McConnaughey ✍️
 role: Instructor
 website: https://laralinmcc.github.io/
 email: laralinmcc@gmail.com

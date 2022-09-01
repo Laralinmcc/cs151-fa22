@@ -57,12 +57,13 @@ Your overall grade will be calculated using the following relative weights:
 | Labs | 12 | 2 | 60 | 12% |
 | Quest | 1 | 0  | 30 | 6% |
 | Midterm | 1 | 0  | 50 | 10% |
-| Final Exam | 1 | 0  | 80 | 16% |
+| Final Exam | 1 | 0  | 90 | 18% |
 | Homework 0 | 1 | 0  | 5 | 1% |
-| Homework 1 | 1 | 0  | 20 | 4% |
-| Homework 2 | 1 | 0  | 20 | 4% |
-| Homework 3 | 1 | 0  | 20 | 4% |
-| Midterm Project | 1 | 0  | 75 | 15% |
+| Homework 1 | 1 | 0  | 25 | 5% |
+| Homework 2 | 1 | 0  | 25 | 5% |
+| Homework 3 | 1 | 0  | 25 | 5% |
+| Homework 4 | 1 | 0  | 25 | 5% |
+| Research Paper | 1 | 0  | 20 | 5% |
 | Final Project | 1 | 0 | 100 | 20% |
 
 ### Assignments
