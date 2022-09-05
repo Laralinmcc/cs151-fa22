@@ -5,9 +5,9 @@ title: Week 1 - Introduction to Computer Science & Karel
 9/6 
 : Tuesday
 : **Lecture**{: .label .label-purple } Intro to CS & Syllabus Review
-  : [Slides](#)
+  : [Slides](https://drive.google.com/file/d/1XzpNRrskzbLnVX5ytnWfDdIe4tGx5Ohp/view?usp=sharing)
 : **Lab**{: .label .label-green } [Intro to Karel](https://edstem.org/us/courses/24341/lessons/42800)
-  : [Check-Off Questions](#)
+  : [Check-Off Questions](https://cs151.org/lab/)
 
 9/9 
 : Thursday
