@@ -54,17 +54,18 @@ Your overall grade will be calculated using the following relative weights:
 | Assignment Type | # of Assignments | Number Dropped | Points | Weight in Overall Grade |
 |:-------------|:------------------|:------|:------|
 | Concept Checks | 24 | 4 | 40 | 8% |
-| Labs | 12 | 2 | 60 | 12% |
-| Quest | 1 | 0  | 30 | 6% |
+| Labs | 12 | 2 | 60 | 25% |
+| Quest 1 | 1 | 0  | 30 | 5% |
+| Quest 2 | 1 | 0  | 30 | 5% |
 | Midterm | 1 | 0  | 50 | 10% |
-| Final Exam | 1 | 0  | 90 | 18% |
+| Final Exam | 1 | 0  | 90 | 10% |
 | Homework 0 | 1 | 0  | 5 | 1% |
-| Homework 1 | 1 | 0  | 25 | 5% |
-| Homework 2 | 1 | 0  | 25 | 5% |
-| Homework 3 | 1 | 0  | 25 | 5% |
-| Homework 4 | 1 | 0  | 25 | 5% |
+| Project 1 | 1 | 0  | 25 | 4% |
+| Project 2 | 1 | 0  | 25 | 4% |
+| Project 3 | 1 | 0  | 25 | 4% |
+| Project 4 | 1 | 0  | 25 | 4% |
 | Research Paper | 1 | 0  | 20 | 5% |
-| Final Project | 1 | 0 | 100 | 20% |
+| Final Project | 1 | 0 | 100 | 15% |
 
 ### Assignments
 These details are subject to change during the semester, however the current plan of record is the following:
@@ -76,8 +77,8 @@ These details are subject to change during the semester, however the current pla
 
 Assignments will be due at 11:59pm, with a 10% penalty per each day that the assignment is late up to 5 days total.
 
-### Pro-Student Grading Policies
-- **Absolute-Clobber Policy**: If either your midterm or final exam score is higher than your quest score, we will replace your quest score with the maximum of your midterm and final exam scores. If your final exam score is higher than your midterm score, we will replace your midterm score with your final exam score. For example, if you receive a 70% on the midterm but an 85% on the final, at the end of the semester your midterm score will also be upgraded to 85%. 
+<!-- ### Pro-Student Grading Policies
+- **Absolute-Clobber Policy**: If either your midterm or final exam score is higher than your quest score, we will replace your quest score with the maximum of your midterm and final exam scores. If your final exam score is higher than your midterm score, we will replace your midterm score with your final exam score. For example, if you receive a 70% on the midterm but an 85% on the final, at the end of the semester your midterm score will also be upgraded to 85%.  -->
 
 - **Slip Days**: Each student will receive 6 slip days, to be used for homeworks and projects only. Each slip day allows you to extend the deadline period by one day with no penalty. For example, if a project is due Friday at 11:59 PM PT, you may turn it in without penalty up until Saturday at 11:59 PM PT by using one slip day. Note: You can use a maximum of three slip days per project.
 
