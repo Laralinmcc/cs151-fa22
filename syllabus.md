@@ -71,8 +71,8 @@ These details are subject to change during the semester, however the current pla
 
 - ~24 Concept Checks - Held at the beginning of lecture section. Graded on correctness.
 - 12 Labs - 1x per week. Work w/ partners, submit individually.
-- 3 Homeworks - spread throughout the semester. Work individually, submit individually.
-- 2 Projects - Midterm Project and Final Project. Work individually or with a partner.
+- 4 Programming Projects - spread throughout the semester. Work individually, submit individually.
+- 1 Final Projects - Midterm Project and Final Project. Work individually or with a partner.
 
 Assignments will be due at 11:59pm, with a 10% penalty per each day that the assignment is late up to 5 days total.
 
