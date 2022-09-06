@@ -13,3 +13,4 @@ On this page, you will find a list of check-off questions for each lab.
 * What are the four methods available in Karel's world?
 * What does computational thinking mean to you?
 * Show me your diagonal Karel program.
+* Show me your dance Karel program.
