@@ -16,7 +16,7 @@ If you do know both, schedule a Career Planning session. Together, we'll chart y
 
 If you don't know what you're doing here or what you want to do in the future, *please* schedule a Career Planning session. You'll learn all the amazing opportunities that this class will open you up to. Explore various career paths in tech with someone who interacts with people in those fields everyday, learn how your strengths set you up to succeed in these roles, and get started on your journey.
 
-[Schedule Career Planning](hhttps://calendar.app.google/69S97cp4haBwoc659){: .btn .btn-outline }
+[Schedule Career Planning](https://calendar.app.google/69S97cp4haBwoc659){: .btn .btn-outline }
 
 ## Resume Reviews
 Learn how to show yourself off. Resumes are your way to flex your strengths by highlighting all the hard work you've put in and challenges you've overcome.

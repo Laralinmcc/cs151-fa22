@@ -15,11 +15,20 @@ For a quicker response on homework or project help, please ask on EdStem rather 
 {{ staffer }}
 {% endfor %}
 
+{% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
+{% assign num_teaching_assistants = teaching_assistants | size %}
+{% if num_teaching_assistants != 0 %}
+## Hampton Teaching Assistants
+
+{% for staffer in teaching_assistants %}
+{{ staffer }}
+{% endfor %}
+{% endif %}
 
 {% assign teaching_assistants = site.staffers | where: 'role', 'Google Teaching Assistant' %}
 {% assign num_teaching_assistants = teaching_assistants | size %}
 {% if num_teaching_assistants != 0 %}
-## Google Teaching Assistant
+## Google Teaching Assistants
 
 {% for staffer in teaching_assistants %}
 {{ staffer }}
@@ -29,6 +38,7 @@ For a quicker response on homework or project help, please ask on EdStem rather 
 {% assign career_coach = site.staffers | where: 'role', 'Career Coach' %}
 {% assign num_teaching_assistants = career_coach | size %}
 {% if num_teaching_assistants != 0 %}
+
 ## Career Coach
 
 {% for staffer in career_coach %}

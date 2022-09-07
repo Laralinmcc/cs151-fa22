@@ -17,4 +17,4 @@ title: Week 1 - Introduction to Computer Science & Karel
 
 9/10 
 : Friday
-: **HW 0 due**{: .label .label-red } [Introduce Yourself](https://edstem.org/us/courses/24341/lessons/42822/edit/slides/247933)
+: **HW 0 due**{: .label .label-red } [Introduce Yourself](https://edstem.org/us/courses/24341/lessons/42822/slides/247933)

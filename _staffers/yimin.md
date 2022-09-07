@@ -1,5 +1,5 @@
 ---
-name: Gavin Ding 🤯 
+name: Yimin Ding 🤯 
 role: Curriculum Developer
 email: gavindym@google.com
 pronouns: he/him
