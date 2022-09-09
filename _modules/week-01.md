@@ -13,7 +13,7 @@ title: Week 1 - Introduction to Computer Science & Karel
 : Thursday
 : **Concept Video**{: .label .label-blue } [Computer Science Everywhere!](https://edstem.org/us/courses/24341/lessons/42819/slides/247921)
 : **Lecture**{: .label .label-purple } Binary & Karel
-  : [Slides](https://drive.google.com/file/d/18PgiKU3xBmlfLRF7b1Z7t4Tm9vDUhUdm/view?usp=sharing)
+  : [\[Video\]](https://www.youtube.com/watch?v=wnKVWWUm-mY&list=PL68vLg5ecQ42QAJ8_qAuNY-wRw7cqAwiC) [\[Slides\]](https://drive.google.com/file/d/18PgiKU3xBmlfLRF7b1Z7t4Tm9vDUhUdm/view?usp=sharing)
 
 9/10 
 : Friday
