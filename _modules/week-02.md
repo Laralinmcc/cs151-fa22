@@ -4,7 +4,7 @@ title: Week 2 - Karel Functions & Decomposition
 
 9/13
 : Tuesday
-: **Concept Videos**{: .label .label-blue } [Karel Methods](#)
+: **Concept Videos**{: .label .label-blue } [Karel Methods](https://edstem.org/us/courses/24341/lessons/43952/slides/253387)
 : **Lecture**{: .label .label-purple } Karel Methods
   : [Slides](#)
 : **Lab**{: .label .label-green } [Karel Functions & Decomposition](https://edstem.org/us/courses/24341/lessons/42800)
