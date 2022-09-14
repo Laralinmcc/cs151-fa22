@@ -6,13 +6,13 @@ title: Week 2 - Karel Functions & Decomposition
 : Tuesday
 : **Concept Videos**{: .label .label-blue } [Karel Methods](https://edstem.org/us/courses/24341/lessons/43952/slides/253387)
 : **Lecture**{: .label .label-purple } Karel Methods
-  : [Slides](#)
+  : [Slides](https://drive.google.com/file/d/1S6l37gEvuFDVkBa7Aq-PEJu3NKpwAbLu/view?usp=sharing)
 : **Lab**{: .label .label-green } [Karel Functions & Decomposition](https://edstem.org/us/courses/24341/lessons/42800)
-  : [Check-Off Questions](#)
+  : [Check-Off Questions](https://cs151.org/lab/)
   
 9/15
 : Thursday
-: **Concept Videos**{: .label .label-blue } [Karel Decomposition](#)
+: **Concept Videos**{: .label .label-blue } [Karel Decomposition](https://edstem.org/us/courses/24341/lessons/44197)
 : **Lecture**{: .label .label-purple } Karel Decomposition
   : [Slides](#)
 
