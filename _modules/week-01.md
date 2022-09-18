@@ -4,15 +4,15 @@ title: Week 1 - Introduction to Computer Science & Karel
 
 9/6 
 : Tuesday
-: **Lecture**{: .label .label-purple } Intro to CS & Syllabus Review
+: **Lecture 1**{: .label .label-purple } Intro to CS & Syllabus Review
   : [Slides](https://drive.google.com/file/d/1t9imLRoounjEHdraSJudzi26hj_cCPnT/view?usp=sharing)
-: **Lab**{: .label .label-green } [Intro to Karel](https://edstem.org/us/courses/24341/lessons/42800)
+: **Lab 1**{: .label .label-green } [Intro to Karel](https://edstem.org/us/courses/24341/lessons/42800)
   : [Check-Off Questions](https://cs151.org/lab/)
 
 9/9 
 : Thursday
-: **Concept Video**{: .label .label-blue } [Computer Science Everywhere!](https://edstem.org/us/courses/24341/lessons/42819/slides/247921)
-: **Lecture**{: .label .label-purple } Binary & Karel
+: **Concept Videos Lecture 2**{: .label .label-blue } [Computer Science Everywhere!](https://edstem.org/us/courses/24341/lessons/42819/slides/247921)
+: **Lecture 2**{: .label .label-purple } Binary & Karel
   : [\[Video\]](https://www.youtube.com/watch?v=wnKVWWUm-mY&list=PL68vLg5ecQ42QAJ8_qAuNY-wRw7cqAwiC) [\[Slides\]](https://drive.google.com/file/d/18PgiKU3xBmlfLRF7b1Z7t4Tm9vDUhUdm/view?usp=sharing)
 
 9/10 
