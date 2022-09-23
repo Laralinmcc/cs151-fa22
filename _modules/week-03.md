@@ -12,7 +12,5 @@ title: Week 3 - Karel Loops & Conditionals
 
 9/22
 : Thursday
-: **Concept Videos Lecture 6**{: .label .label-blue } [Karel Conditionals](#)
-: **Lecture 6**{: .label .label-purple } Karel Conditionals
-  : [Slides](#)
+: **Career Fair**{: .label .label-purple } No Lecture
 
