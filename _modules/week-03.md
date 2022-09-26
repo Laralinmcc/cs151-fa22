@@ -7,7 +7,7 @@ title: Week 3 - Karel Loops & Conditionals
 : **Concept Videos Lecture 5**{: .label .label-blue } [Karel Loops & Conditionals](https://edstem.org/us/courses/24341/lessons/44601/slides/256865)
 : **Lecture 5**{: .label .label-purple } Karel Loops
   : [Slides](#)
-: **Lab**{: .label .label-green } [Karel Loops & Conditionals](https://edstem.org/us/courses/24341/lessons/44595)
+: **Lab 3**{: .label .label-green } [Karel Loops & Conditionals](https://edstem.org/us/courses/24341/lessons/44595)
   : [Check-Off Questions](https://cs151.org/lab/)
 
 9/22

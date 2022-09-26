@@ -2,15 +2,14 @@
 title: Week 14 - File Input/Output & GUIs
 ---
 
-11/29
+12/13
 : Tuesday
-: **Concept Videos 23**{: .label .label-blue } [File Input/Output](#)
-: **Lecture 23**{: .label .label-purple } File Input/Output
-: **Lab 13**{: .label .label-green } [File Input/Output & GUIs](#)
-  : [Check-Off Questions](https://cs151.org/lab/)
+: **Concept Videos 25**{: .label .label-blue } [Future of Computing](#)
+: **Lecture 25**{: .label .label-purple } Future of Computing
+: **Lab 14**{: .label .label-green } [Final Project Work Session](#)
 
-12/1
+12/15
 : Thursday
-: **Concept Videos Lecture 24**{: .label .label-blue } [GUIs](#)
-: **Lecture 24**{: .label .label-purple } GUIs
+: **Concept Videos Lecture 25**{: .label .label-blue } [Farewell Lecture](#)
+: **Lecture 8**{: .label .label-purple } Farewell Lecture
 
