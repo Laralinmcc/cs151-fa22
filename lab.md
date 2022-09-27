@@ -27,3 +27,10 @@ On this page, you will find a list of check-off questions for each lab.
 * Show me your City Line Tower Karel.
 * Show me your Karel Go Home code. What smaller problems did you break Karel Go Home into?
 * Show me your Face East Karel. What were the conditions that you had to write?
+
+**Lab 4**{: .label .label-purple} [While Loop Bugs, Debugging, Formatting](https://edstem.org/us/courses/24341/lessons/44595/)
+* Explain what an off by one error or fence post error means.
+* Show me your formatted Square Karel, City Line Tower Karel, and Face East Karel.
+* What was the bug in the Debug & Format: Pick up balls Karel?
+* What might it me when you see this "error: ';' expected".
+* When should you indent your code over?
