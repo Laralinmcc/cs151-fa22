@@ -13,6 +13,5 @@ title: Week 4 - Conditions & Debugging
 
 9/29
 : Thursday
-: **Concept Videos Lecture 7**{: .label .label-blue } [Karel Debugging & Formatting](#)
-: **Lecture 7**{: .label .label-purple } Karel Debugging & Formatting
+: **Lecture 7**{: .label .label-purple } Karel Quest Review
   : [Slides](#)

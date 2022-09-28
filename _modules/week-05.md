@@ -16,4 +16,4 @@ title: Week 5 - Welcome to Java!
 
 10/7
 : Friday
-: **Project 1 due**{: .label .label-red } [Project Karel]
+: **Project 1 due**{: .label .label-red } [Project Karel](https://edstem.org/us/courses/24341/lessons/45166/slides/259572)
