@@ -34,3 +34,10 @@ On this page, you will find a list of check-off questions for each lab.
 * What was the bug in the Debug & Format: Pick up balls Karel?
 * What might it me when you see this "error: ';' expected".
 * When should you indent your code over?
+
+**Lab 5**{: .label .label-purple} [Welcome to Java!](https://edstem.org/us/courses/24341/lessons/44595/)
+* What is the equivalent of the run() method we use for Karel in Java?
+* How do you display something to the termina?
+* What is the command for running a Java program?
+* Show me your Hampton Chatbot.
+* Show me your print numbers 0-N.
