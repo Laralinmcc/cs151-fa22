@@ -13,3 +13,7 @@ title: Week 10 - Arrays II / Hashmaps
 : Thursday
 : **Concept Videos Lecture 18**{: .label .label-blue } [Search Algorithms](#)
 : **Lecture 18**{: .label .label-purple } Search Algorithms
+
+11/11
+: Friday
+: **Project 3 due**{: .label .label-red } Wordle Part 2

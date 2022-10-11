@@ -16,4 +16,4 @@ title: Week 13 - Objects and Classes
 
 12/2
 : Friday
-: **Project 3 due**{: .label .label-red } Music Maker
+: **Project 4 due**{: .label .label-red } Music Maker
