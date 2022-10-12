@@ -37,7 +37,14 @@ On this page, you will find a list of check-off questions for each lab.
 
 **Lab 5**{: .label .label-purple} [Welcome to Java!](https://edstem.org/us/courses/24341/lessons/44595/)
 * What is the equivalent of the run() method we use for Karel in Java?
-* How do you display something to the termina?
+* How do you display something to the terminal?
 * What is the command for running a Java program?
 * Show me your Hampton Chatbot.
 * Show me your print numbers 0-N.
+
+**Lab 6**{: .label .label-purple} [Java Variables & Types]
+* What are the 3 things you need to write when declaring a variable?
+* Explain how a for loop works.
+* Show me your Computer Science Rocks problem.
+* How did you fix your program so that it doesn't overdraft from a bank account?
+* Show me your chatbot.
