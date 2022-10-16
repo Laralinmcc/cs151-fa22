@@ -6,7 +6,7 @@ title: Week 2 - Karel Functions & Decomposition
 : Tuesday
 : **Concept Videos Lecture 3**{: .label .label-blue } [Karel Methods](https://edstem.org/us/courses/24341/lessons/43952/slides/253387)
 : **Lecture 3**{: .label .label-purple } Karel Methods
-  : [Slides](https://drive.google.com/file/d/1S6l37gEvuFDVkBa7Aq-PEJu3NKpwAbLu/view?usp=sharing)
+  : [\[Slides\]](https://drive.google.com/file/d/1S6l37gEvuFDVkBa7Aq-PEJu3NKpwAbLu/view?usp=sharing)
 : **Lab 2**{: .label .label-green } [Karel Functions & Decomposition](https://edstem.org/us/courses/24341/lessons/42800)
   : [Check-Off Questions](https://cs151.org/lab/)
   
@@ -14,7 +14,7 @@ title: Week 2 - Karel Functions & Decomposition
 : Thursday
 : **Concept Videos Lecture 4**{: .label .label-blue } [Karel Decomposition](https://edstem.org/us/courses/24341/lessons/44197)
 : **Lecture 4**{: .label .label-purple } Karel Decomposition
-  <!-- : [Slides](#) -->
+  : [\[Slides\]](https://drive.google.com/file/d/1gIGFqpzAcPpF5BZD4_hGD8W6q8rjNdYH/view?usp=sharing)
 
 9/10 
 : Friday
