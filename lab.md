@@ -48,3 +48,10 @@ On this page, you will find a list of check-off questions for each lab.
 * Show me your Computer Science Rocks problem.
 * How did you fix your program so that it doesn't overdraft from a bank account?
 * Show me your chatbot.
+
+**Lab 7**{: .label .label-purple} [Java Variables & Types]
+* What is the type of the parameters you declared for the average2 method?
+* What is the difference between a paraemter and an arguement? 
+* When your method only prints and doesn't return anything what should the return type be?
+* Show me your decomposed deposit and withdraw from bank account.
+* Show me Highest and Lowest among 3 numbers how did you test your code?
