@@ -16,4 +16,4 @@ title: Week 10 - Arrays II / Hashmaps
 
 11/11
 : Friday
-: **Project 3 due**{: .label .label-red } Wordle Part 2
+: **Research Paper due**{: .label .label-red } Ethics of Computing

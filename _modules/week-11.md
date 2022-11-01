@@ -1,6 +1,9 @@
 ---
 title: Week 11 - Algorithms
 ---
+11/14
+: Monday
+: **Project 2 due**{: .label .label-red } Wordle Project Due
 
 11/15
 : Tuesday
@@ -13,3 +16,7 @@ title: Week 11 - Algorithms
 : Thursday
 : **Concept Videos Lecture 20**{: .label .label-blue } [Objects and Classes](#)
 : **Lecture 20**{: .label .label-purple } Objects and Classes
+
+11/18
+: Friday
+: **Research Paper due**{: .label .label-red } Ethics of Computing
