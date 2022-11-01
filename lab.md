@@ -49,9 +49,17 @@ On this page, you will find a list of check-off questions for each lab.
 * How did you fix your program so that it doesn't overdraft from a bank account?
 * Show me your chatbot.
 
-**Lab 7**{: .label .label-purple} [Java Variables & Types]
+**Lab 7**{: .label .label-purple} [Strings, Variable Scope, and Method Parameters]
 * What is the type of the parameters you declared for the average2 method?
 * What is the difference between a paramter and an arguement? 
 * When your method only prints and doesn't return anything what should the return type be?
 * Show me your decomposed deposit and withdraw from bank account.
 * Show me Highest and Lowest among 3 numbers how did you test your code?
+
+**Lab 8**{: .label .label-purple} [Strings]
+* What String method can you use to get part of a string?
+* What is the return type of the charAt() method?
+* Show me your password validation method. What is the return type of the validPassword method?
+* What is the index of the first character of a String?
+* Show me your reverse string method.
+
