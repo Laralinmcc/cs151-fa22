@@ -1,5 +1,5 @@
 ---
-title: Week 7 - Domain & Range / Parameterization
+title: Week 7 - Parameterization & Returning
 ---
 
 10/18
@@ -13,7 +13,3 @@ title: Week 7 - Domain & Range / Parameterization
 : Thursday
 : **Concept Videos Lecture 13**{: .label .label-blue } [More Method Practice & Strings](#)
 : **Lecture 13**{: .label .label-purple } Parameterization
-
-10/23
-: Sunday
-: **Project 2 due**{: .label .label-red } Wordle Starter Doc Due
