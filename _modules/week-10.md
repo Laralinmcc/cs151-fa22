@@ -13,7 +13,3 @@ title: Week 10 - Arrays II / Hashmaps
 : Thursday
 : **Concept Videos Lecture 18**{: .label .label-blue } [Search Algorithms](#)
 : **Lecture 18**{: .label .label-purple } Search Algorithms
-
-11/11
-: Friday
-: **Research Paper due**{: .label .label-red } Ethics of Computing
