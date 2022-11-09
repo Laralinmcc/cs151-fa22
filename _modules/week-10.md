@@ -11,5 +11,5 @@ title: Week 10 - Arrays II / Hashmaps
 
 11/10
 : Thursday
-: **Concept Videos Lecture 18**{: .label .label-blue } [Array Counting & Hashmaps](#)
-: **Lecture 18**{: .label .label-purple } Array Counting & Hashmaps
+: **Concept Videos Lecture 18**{: .label .label-blue } [Array Counting](https://edstem.org/us/courses/24341/lessons/47973/)
+: **Lecture 18**{: .label .label-purple } Array Counting & Search Algorithms

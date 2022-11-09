@@ -7,7 +7,7 @@ title: Week 11 - Algorithms
 
 11/15
 : Tuesday
-: **Concept Videos 19**{: .label .label-blue } [Algorithmic Complexity](#)
+: **Concept Videos 19**{: .label .label-blue } [Nested for Loops & Algorithmic Complexity](#)
 : **Lecture 19**{: .label .label-purple } Algorithmic Complexity
 : **Lab 11**{: .label .label-green } [Search Algorithms]
   : [Check-Off Questions](https://cs151.org/lab/)
