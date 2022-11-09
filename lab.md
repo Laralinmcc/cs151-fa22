@@ -64,7 +64,7 @@ On this page, you will find a list of check-off questions for each lab.
 * Show me your reverse string method.
 
 
-**Lab 8**{: .label .label-purple} [Arrays]
+**Lab 9**{: .label .label-purple} [Arrays]
 * How would you initialize an array of integers of size 8?
 * What is the syntax for setting an element of an array?
 * What is an index?
