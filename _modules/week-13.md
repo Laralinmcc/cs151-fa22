@@ -2,11 +2,15 @@
 title: Week 13 - Objects and Classes
 ---
 
+11/28
+: Monday
+: **Project 3 due**{: .label .label-red } Image Filter
+
 11/29
 : Tuesday
-: **Concept Videos 21**{: .label .label-blue } [Objects and Classes & GUIs](#)
-: **Lecture 21**{: .label .label-purple } Objects and Classes & GUIs
-: **Lab 12**{: .label .label-green } [Objects and Classes](#)
+: **Concept Videos 21**{: .label .label-blue } [File Input/Output](#)
+: **Lecture 21**{: .label .label-purple } [File Input/Output]
+: **Lab 12**{: .label .label-green } [[File Input/Output] & Music Maker Project](#)
   : [Check-Off Questions](https://cs151.org/lab/)
 
 12/1

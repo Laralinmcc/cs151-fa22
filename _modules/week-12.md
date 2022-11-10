@@ -2,6 +2,11 @@
 title: Week 12 - File Input/Output
 ---
 
+11/18
+: Monday
+: **Research Paper due**{: .label .label-red } Ethics of Computing
+
+
 11/22
 : Tuesday
 : **Exam**{: .label .label-red } [Quest Java](#)

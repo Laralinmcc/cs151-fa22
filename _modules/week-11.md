@@ -14,8 +14,8 @@ title: Week 11 - Algorithms
 
 11/17
 : Thursday
-: **Concept Videos Lecture 20**{: .label .label-blue } [Objects and Classes](#)
-: **Lecture 20**{: .label .label-purple } Objects and Classes
+: **Concept Videos Lecture 20**{: .label .label-blue } [Ethics of Computing](#)
+: **Lecture 20**{: .label .label-purple } Ethics of Computing
 
 11/18
 : Friday
