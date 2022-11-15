@@ -8,4 +8,8 @@ title: Week 15 - Finals Week
 
 12/17
 : Saturday
-: **Final Exam**{: .label .label-red } Final Project
+: **Final Exam 1pm**{: .label .label-red } Final Exam for 11:00am Lecture
+
+12/19
+: Monday
+: **Final Exam  1pm**{: .label .label-red } Final Exam for 12:30am Lecture
