@@ -2,6 +2,10 @@
 title: Week 13 - Objects and Classes
 ---
 
+12/5
+: Monday
+: **Project 3 due**{: .label .label-red } Image Filter
+
 11/29
 : Tuesday
 : **Exam**{: .label .label-red } [Quest Java](#)
