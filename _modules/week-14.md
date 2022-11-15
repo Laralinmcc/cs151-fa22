@@ -2,6 +2,11 @@
 title: Week 14 - File Input/Output & GUIs
 ---
 
+12/5
+: Monday
+: **Project 4 due**{: .label .label-red } Music Maker
+
+
 12/6
 : Tuesday
 : **Concept Videos 22**{: .label .label-blue } [Future of Computing](#)
