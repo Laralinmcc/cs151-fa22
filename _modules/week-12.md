@@ -9,7 +9,7 @@ title: Week 12 - File Input/Output
 
 11/22
 : Tuesday
-: **Exam**{: .label .label-red } [Quest Java](#)
+: **Lecture 21**{: .label .label-purple } Java Quest Review
 
 11/23
 : Thanksgiving Break
