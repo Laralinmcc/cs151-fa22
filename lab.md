@@ -71,3 +71,13 @@ On this page, you will find a list of check-off questions for each lab.
 * Show me your removeFirstAndLast method in array practice?
 * What is the difference between an Array and ArrayList?
 
+**Lab 10**{: .label .label-purple} [Arrays]
+* What is the running time of the unique names solution?
+* Explain the binary search code.
+* What is a pixel?
+* What is the range of the RGB values?
+
+**Lab 11**{: .label .label-purple} [Arrays]
+* Show me you have java installed.
+* What IDE did you download and why?
+
