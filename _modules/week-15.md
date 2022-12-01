@@ -2,8 +2,8 @@
 title: Week 15 - Finals Week
 ---
 
-12/16
-: Friday
+12/12
+: Monday
 : **Final Project due**{: .label .label-red } Final Project
 
 12/17

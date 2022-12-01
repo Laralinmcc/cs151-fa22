@@ -14,5 +14,4 @@ title: Week 13 - Objects and Classes
 
 12/1
 : Thursday
-: **Concept Videos 21**{: .label .label-blue } [File Input/Output](#)
-: **Lecture 21**{: .label .label-purple } [File Input/Output]
+: **Lecture 21**{: .label .label-purple } [Final Project]

@@ -11,7 +11,7 @@ title: Week 14 - File Input/Output & GUIs
 : Tuesday
 : **Concept Videos 22**{: .label .label-blue } [Future of Computing](#)
 : **Lecture 22**{: .label .label-purple } Future of Computing
-: **Lab 14**{: .label .label-green } [Final Project Work Session](#)
+: **Lab 14**{: .label .label-green } [In Lab Final](#)
 
 12/8
 : Thursday
